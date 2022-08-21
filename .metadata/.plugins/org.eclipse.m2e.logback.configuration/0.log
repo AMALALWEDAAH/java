@@ -1,0 +1,180 @@
+2022-08-10 11:24:58,946 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-10 11:25:20,101 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sda.logAndReg:logAndReg:0.0.1-SNAPSHOT @ /Users/amalabdul/Downloads/logAndReg-4/pom.xml.
+2022-08-10 11:25:21,334 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:25:21,334 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:25:21,338 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-10 11:25:21,356 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:25:21,358 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:25:21,359 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:25:21,359 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:25:21,962 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sda.logAndReg:logAndReg:0.0.1-SNAPSHOT @ /Users/amalabdul/Downloads/logAndReg-4/pom.xml.
+2022-08-10 11:25:23,118 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:25:23,119 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:25:23,123 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-10 11:25:23,136 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:25:23,140 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:25:23,140 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:25:23,140 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:26:22,902 [Worker-4: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:26:22,903 [Worker-4: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:26:22,904 [Worker-4: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-10 11:26:22,911 [Worker-4: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:26:22,914 [Worker-4: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:26:22,914 [Worker-4: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:26:22,915 [Worker-4: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:27:45,689 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:27:45,689 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:27:45,689 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:27:45,689 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:27:45,691 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:27:45,691 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:27:45,691 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:28:37,258 [Worker-7: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:28:37,258 [Worker-7: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:28:37,259 [Worker-7: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-10 11:28:37,297 [Worker-7: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:28:37,300 [Worker-7: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:28:37,300 [Worker-7: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:28:37,300 [Worker-7: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:29:40,471 [Worker-9: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:29:40,472 [Worker-9: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:29:40,472 [Worker-9: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:29:40,473 [Worker-9: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:29:40,475 [Worker-9: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:29:40,475 [Worker-9: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:29:40,476 [Worker-9: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:30:31,040 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:30:31,041 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:30:31,041 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:30:31,041 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:30:31,043 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:30:31,044 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:30:31,044 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:33:17,161 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:33:17,161 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:33:17,161 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:33:17,162 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:33:17,164 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:33:17,164 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:33:17,164 [Worker-0: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:34:25,730 [Worker-5: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:34:25,730 [Worker-5: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:34:25,731 [Worker-5: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:34:25,731 [Worker-5: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:34:25,734 [Worker-5: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:34:25,734 [Worker-5: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:34:25,734 [Worker-5: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:36:15,680 [Worker-3: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:36:15,680 [Worker-3: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:36:15,681 [Worker-3: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:36:15,681 [Worker-3: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:36:15,684 [Worker-3: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:36:15,684 [Worker-3: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:36:15,684 [Worker-3: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:38:07,217 [Worker-10: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:38:07,218 [Worker-10: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:38:07,218 [Worker-10: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:38:07,218 [Worker-10: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:38:07,220 [Worker-10: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:38:07,220 [Worker-10: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:38:07,221 [Worker-10: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:41:11,265 [Worker-13: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:41:11,265 [Worker-13: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:41:11,265 [Worker-13: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:41:11,265 [Worker-13: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:41:11,267 [Worker-13: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:41:11,267 [Worker-13: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:41:11,267 [Worker-13: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:53:04,886 [Worker-27: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:53:04,888 [Worker-27: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:53:04,889 [Worker-27: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:53:04,889 [Worker-27: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:53:04,892 [Worker-27: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:53:04,893 [Worker-27: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:53:04,893 [Worker-27: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:54:07,098 [Worker-26: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:54:07,098 [Worker-26: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:54:07,098 [Worker-26: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:54:07,099 [Worker-26: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:54:07,101 [Worker-26: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:54:07,102 [Worker-26: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:54:07,102 [Worker-26: Launching logAndReg - LogAndRegApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-10 11:56:05,196 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:56:05,197 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:56:05,197 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-10 11:56:05,237 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-10 11:56:05,239 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 11:56:05,239 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-10 11:56:05,240 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-11 02:05:48,451 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-11 02:05:53,865 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 02:05:53,867 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 02:05:53,872 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-11 02:05:53,900 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-11 02:05:53,905 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 02:05:53,905 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 02:05:53,905 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-4/src/test/resources
+2022-08-11 02:06:13,538 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nathan:demo:0.0.1-SNAPSHOT @ /Users/amalabdul/Downloads/demo-3/pom.xml.
+2022-08-11 02:06:14,153 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 02:06:14,153 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 02:06:14,154 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-11 02:06:14,157 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-11 02:06:14,159 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 02:06:14,159 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 02:06:14,159 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/demo-3/src/test/resources
+2022-08-11 02:06:14,786 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nathan:demo:0.0.1-SNAPSHOT @ /Users/amalabdul/Downloads/demo-3/pom.xml.
+2022-08-11 02:06:15,805 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 02:06:15,805 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 02:06:15,808 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-11 02:06:15,810 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-11 02:06:15,812 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 02:06:15,812 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 02:06:15,812 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/demo-3/src/test/resources
+2022-08-11 02:07:20,588 [Worker-3: Launching demo - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 02:07:20,588 [Worker-3: Launching demo - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 02:07:20,589 [Worker-3: Launching demo - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-11 02:07:20,593 [Worker-3: Launching demo - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-11 02:07:20,594 [Worker-3: Launching demo - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 02:07:20,594 [Worker-3: Launching demo - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 02:07:20,594 [Worker-3: Launching demo - DemoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/demo-3/src/test/resources
+2022-08-11 09:54:18,276 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-11 09:54:20,494 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 09:54:20,495 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 09:54:20,499 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-11 09:54:20,534 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-11 09:54:20,538 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 09:54:20,538 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 09:54:20,539 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/demo-3/src/test/resources
+2022-08-11 09:54:23,207 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nathan:demo:0.0.1-SNAPSHOT @ /Users/amalabdul/Downloads/demo-3/pom.xml.
+2022-08-11 09:54:25,123 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 09:54:25,123 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 09:54:25,129 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-11 09:54:25,129 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-11 09:54:25,133 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-11 09:54:25,133 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-11 09:54:25,134 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/demo-3/src/test/resources
+2022-08-14 08:28:16,658 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-14 21:28:09,317 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-14 21:28:37,115 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 21:28:37,117 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-14 21:28:37,122 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-14 21:28:37,143 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-14 21:28:37,147 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 21:28:37,147 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-14 21:28:37,147 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/demo-3/src/test/resources
+2022-08-14 21:28:56,138 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sda.logAndReg:logAndReg:0.0.1-SNAPSHOT @ /Users/amalabdul/Downloads/logAndReg-2/pom.xml.
+2022-08-14 21:28:56,529 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 21:28:56,529 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-14 21:28:56,530 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-14 21:28:56,531 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-14 21:28:56,533 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 21:28:56,533 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-14 21:28:56,533 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-2/src/test/resources
+2022-08-14 21:28:57,602 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sda.logAndReg:logAndReg:0.0.1-SNAPSHOT @ /Users/amalabdul/Downloads/logAndReg-2/pom.xml.
+2022-08-14 21:28:58,318 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 21:28:58,318 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-14 21:28:58,321 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-14 21:28:58,322 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-14 21:28:58,325 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 21:28:58,325 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-14 21:28:58,325 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/amalabdul/Downloads/logAndReg-2/src/test/resources

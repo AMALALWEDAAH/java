@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/amalabdul/Desktop/coodingDojo/java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1225517564.index
+/logAndReg/src/main/java

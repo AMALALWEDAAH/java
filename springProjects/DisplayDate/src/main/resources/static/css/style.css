@@ -1,0 +1,12 @@
+@charset "UTF-8";
+ body{
+ padding: 20% 0%;
+  text-align: center;
+ }
+
+#blue {
+    color: blue;
+}
+#green {
+    color: green;
+}
