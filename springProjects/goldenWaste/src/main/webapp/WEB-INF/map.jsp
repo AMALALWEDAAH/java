@@ -30,7 +30,7 @@ Find Hotels
 Location
 About</span></div><div class="v16_1553"><span class="v16_1554">Golden Waste</span><span class="v16_1555">Smart Container to recycle your waste efficiently.</span></div><div class="v16_1556"><span class="v16_1557">Information</span><span class="v16_1558">Privacy Policy
 Terms of Service
-Contact</span></div></div><div class="v34_320"></div><div class="v16_1561"><span class="v16_1562">Home</span><span class="v16_1563">Product</span><span class="v16_1564">Map</span><span class="v16_1565">About us</span><div class="v16_1566"><span class="v16_1567">Login</span></div></div></div></body></html> <br/><br/> <style>* {
+Contact</span></div></div><div class="v34_320"></div><div class="v16_1561"><span class="v16_1562"><a href="/home">Home</a></span><span class="v16_1563"><a href="/product">Product</a></span><span class="v16_1564"><a href="/map">Map</a></span><span class="v16_1565">About us</span><div class="v16_1566"><span class="v16_1567">Login</span></div></div></div></body></html> <br/><br/> <style>* {
   box-sizing: border-box;
 }
 #map {
